@@ -1,0 +1,6 @@
+*.js
+*.css
+*.json
+*.d.ts
+src/serviceWorkerRegistration.ts
+src/service-worker.ts
